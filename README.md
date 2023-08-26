@@ -5,4 +5,6 @@
 
 - The movie information is fetched from the MovieDB using API. Therefore, the movies will always be the popular movies at the time the user uses the application.
 
+- Link to the website: https://moviegendk.netlify.app
+
 
